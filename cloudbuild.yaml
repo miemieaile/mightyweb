@@ -12,7 +12,7 @@ steps:
     args:
       - 'run'
       - 'deploy'
-      - 'test'
+      - 'mightyweb'
       - '--image'
       - 'gcr.io/$PROJECT_ID/mightyweb:$COMMIT_SHA'
       - '--region'

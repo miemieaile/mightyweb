@@ -2,7 +2,7 @@
     /* Database credentials. Assuming you are running MySQL server with default setting (user 'root' with no password) */
     define('DB_SERVER', '10.148.0.11');
     define('DB_USERNAME', 'root');
-    define('DB_PASSWORD', 'mysql@ime');
+    define('DB_PASSWORD', 'mysql_ime');
     define('DB_NAME', 'mightyweb');
     
     /* Attempt to connect to MySQL database */
